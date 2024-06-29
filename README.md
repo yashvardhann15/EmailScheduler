@@ -17,11 +17,7 @@ This project automates the sending of daily email reports using Python. It lever
 
 ## Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone <repository-url>
-   cd <repository-name>
+1. Clone the repository.
 2. Install dependencies:
    - `pip install schedule`
 3. Update sender_email and password variables in send_email.py with your email credentials(Not Google account password). Replace with your App Password. Visit https://myaccount.google.com/apppasswords
